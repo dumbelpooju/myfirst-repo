@@ -1,0 +1,3 @@
+Open an SSH Open an SSH client.
+Locate your private key file. The key used to launch this instance is Augut_Keypair.pem
+Run this command, if necessary, to ensure your key is not publicly viewable
